@@ -18,7 +18,7 @@ class Conexao {
         $this->host = 'localhost';
         $this->user = 'root';
         $this->password = '';
-        $this->baseName = 'agenda';
+        $this->baseName = 'crmall';
         $this->port = '3306';
         $this->debug = true;
 
